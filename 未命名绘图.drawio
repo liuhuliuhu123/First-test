@@ -1,35 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T01:26:40.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="T-nT76CCvijN4FERaZOx" version="20.8.21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T10:06:12.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="70hsjT587PpDubI6WTL4" version="20.8.21" type="github">
   <diagram name="第 1 页" id="Nwin8zq7XSR9GZCQchwv">
-    <mxGraphModel dx="1555" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2117" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bnD_S_ylNDwQWyc4xUWv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="bnD_S_ylNDwQWyc4xUWv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-231" y="23" width="622" height="322" as="geometry" />
         </mxCell>
-        <mxCell id="bnD_S_ylNDwQWyc4xUWv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="bnD_S_ylNDwQWyc4xUWv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-221.75" y="35" width="603.5" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="bnD_S_ylNDwQWyc4xUWv-3" value="工具栏" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="bnD_S_ylNDwQWyc4xUWv-3" value="工具栏" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="35" y="51" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bnD_S_ylNDwQWyc4xUWv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-221.75" y="108" width="120" height="168" as="geometry" />
+        <mxCell id="bnD_S_ylNDwQWyc4xUWv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-221.75" y="108" width="120" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="bnD_S_ylNDwQWyc4xUWv-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="bnD_S_ylNDwQWyc4xUWv-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-221.75" y="279" width="603.75" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="bnD_S_ylNDwQWyc4xUWv-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="bnD_S_ylNDwQWyc4xUWv-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-90" y="109" width="472" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="bnD_S_ylNDwQWyc4xUWv-7" value="视图空间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="bnD_S_ylNDwQWyc4xUWv-7" value="视图空间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="20" y="179" width="102" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="bnD_S_ylNDwQWyc4xUWv-8" value="历史树" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-192" y="177" width="60" height="30" as="geometry" />
+        <mxCell id="bnD_S_ylNDwQWyc4xUWv-8" value="历史树" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-191.75" y="149" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bnD_S_ylNDwQWyc4xUWv-9" value="报告浏览器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="bnD_S_ylNDwQWyc4xUWv-9" value="报告浏览器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="35" y="293" width="99" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wroneEp61w4i6FNUBinL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-221.75" y="214" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wroneEp61w4i6FNUBinL-2" value="属性浏览器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-191.75" y="233.5" width="70" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
