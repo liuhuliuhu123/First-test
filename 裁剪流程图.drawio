@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T06:19:57.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="mISpQhZtvfcq0n4_PaZE" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T09:33:32.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="SIz9VGzKRsIXxmOaGneP" version="21.0.4" type="github">
   <diagram name="第 1 页" id="mJHwze7i6DlVu6vwDOK6">
-    <mxGraphModel dx="1720" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,6 +191,143 @@
         <mxCell id="r2CdzehN_HjlSvo2RU6R-73" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r2CdzehN_HjlSvo2RU6R-72">
           <mxGeometry x="-0.43" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-74" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="590" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="650" as="sourcePoint" />
+            <mxPoint x="210" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-76" value="选中当前显示实体的拓扑元素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="640" as="sourcePoint" />
+            <mxPoint x="390" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-78" value="元素类型是否是边" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-79" value="是" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="670" as="sourcePoint" />
+            <mxPoint x="560" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-80" value="根据OCC提供的接口获取元素几何边类型与边的几何点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="710" as="sourcePoint" />
+            <mxPoint x="760" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-82" value="根据几何边类型确定图元类型，根据几何点确定图元参数，绘制图元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-85" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="r2CdzehN_HjlSvo2RU6R-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="690" as="sourcePoint" />
+            <mxPoint x="450" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-86" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-87" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="840" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="890" as="sourcePoint" />
+            <mxPoint x="200" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="869.6666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-89" value="选择图元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-91" value="是否按下Delete键" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="830" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-92" value="是" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="900" as="sourcePoint" />
+            <mxPoint x="550" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-93" value="移除图元数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-94" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="880" as="sourcePoint" />
+            <mxPoint x="720" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-95" value="移除与删除图元有关的约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="890" as="sourcePoint" />
+            <mxPoint x="900" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-97" value="更新容器中删除图元之后的图元的名称等数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="1090" as="sourcePoint" />
+            <mxPoint x="1050" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-99" value="视图更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-100" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="1030" as="sourcePoint" />
+            <mxPoint x="590" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1110" y="950" />
+              <mxPoint x="590" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-102" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-103" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="1110" as="sourcePoint" />
+            <mxPoint x="590" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="950" />
+              <mxPoint x="590" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-104" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r2CdzehN_HjlSvo2RU6R-103">
+          <mxGeometry x="-0.34" y="-2" relative="1" as="geometry">
+            <mxPoint x="-46" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
