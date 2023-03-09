@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T02:29:23.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="6K2uBEBftBwJkYKCZjlO" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T02:38:30.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="0Sr7rbjYtYZdOXWeCpz8" version="21.0.4" type="github">
   <diagram name="第 1 页" id="mJHwze7i6DlVu6vwDOK6">
     <mxGraphModel dx="1290" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
             <mxPoint x="370" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r2CdzehN_HjlSvo2RU6R-5" value="选中图元与其他图元求交点存入容器并对容器进行预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-5" value="容器预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r2CdzehN_HjlSvo2RU6R-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-5">
@@ -49,6 +49,54 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r2CdzehN_HjlSvo2RU6R-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-12" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-13" value="将选中图元与其他图元交点全部存入容器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-14" value="擦除交点不在选中图元上的交点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-15" value="将图元的起点和终点存入容器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-16" value="将容器从小到大进行排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-12" target="r2CdzehN_HjlSvo2RU6R-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="310" as="sourcePoint" />
+            <mxPoint x="50" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="390" as="sourcePoint" />
+            <mxPoint x="350" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-14" target="r2CdzehN_HjlSvo2RU6R-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="380" as="sourcePoint" />
+            <mxPoint x="510" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-15" target="r2CdzehN_HjlSvo2RU6R-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="260" as="sourcePoint" />
+            <mxPoint x="810" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="390" as="sourcePoint" />
+            <mxPoint x="890" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-23" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
