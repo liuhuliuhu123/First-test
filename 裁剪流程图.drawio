@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T00:32:58.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="DJD5pPF6h3B9kWD105o2" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T00:34:25.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="eb99Fwrw0yZYL9VeZQNl" version="21.0.4" type="github">
   <diagram name="第 1 页" id="mJHwze7i6DlVu6vwDOK6">
     <mxGraphModel dx="1400" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -305,7 +305,7 @@
         <mxCell id="r2CdzehN_HjlSvo2RU6R-100" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-99">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1130" y="1030" as="sourcePoint" />
-            <mxPoint x="590" y="1040" as="targetPoint" />
+            <mxPoint x="590" y="970" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1110" y="950" />
               <mxPoint x="590" y="950" />
@@ -313,7 +313,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r2CdzehN_HjlSvo2RU6R-102" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r2CdzehN_HjlSvo2RU6R-103" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -331,16 +331,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r2CdzehN_HjlSvo2RU6R-105" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1160" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r2CdzehN_HjlSvo2RU6R-106" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-105">
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-106" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-105" target="r2CdzehN_HjlSvo2RU6R-107">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="1260" as="sourcePoint" />
             <mxPoint x="200" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r2CdzehN_HjlSvo2RU6R-107" value="选中图元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1160" width="120" height="60" as="geometry" />
+          <mxGeometry x="234" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r2CdzehN_HjlSvo2RU6R-108" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r2CdzehN_HjlSvo2RU6R-107">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -385,7 +385,7 @@
             <mxPoint x="760" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r2CdzehN_HjlSvo2RU6R-123" value="是否自动捕捉到点重合约束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r2CdzehN_HjlSvo2RU6R-123" value="捕捉到新约束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r2CdzehN_HjlSvo2RU6R-125" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
