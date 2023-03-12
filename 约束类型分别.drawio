@@ -1,49 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T09:00:42.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="82X_6ZsgjE84Ozy_8Fi4" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T08:36:15.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="eRZ9YirDUKW9UyIgZCIQ" version="21.0.6" type="github">
   <diagram name="第 1 页" id="1So_czDSUBuQiFDamGuW">
-    <mxGraphModel dx="522" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1269" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FwafR3L3VAN348FCxoly-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FwafR3L3VAN348FCxoly-1" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="320" as="sourcePoint" />
             <mxPoint x="190" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwafR3L3VAN348FCxoly-6" value="几何约束类型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FwafR3L3VAN348FCxoly-1">
+        <mxCell id="FwafR3L3VAN348FCxoly-6" value="几何约束类型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FwafR3L3VAN348FCxoly-1" vertex="1" connectable="0">
           <mxGeometry x="-0.605" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwafR3L3VAN348FCxoly-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FwafR3L3VAN348FCxoly-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="370" as="sourcePoint" />
             <mxPoint x="190" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwafR3L3VAN348FCxoly-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FwafR3L3VAN348FCxoly-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="270" as="sourcePoint" />
             <mxPoint x="270" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwafR3L3VAN348FCxoly-7" value="约束关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FwafR3L3VAN348FCxoly-3">
+        <mxCell id="FwafR3L3VAN348FCxoly-7" value="约束关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FwafR3L3VAN348FCxoly-3" vertex="1" connectable="0">
           <mxGeometry x="-0.38" y="-1" relative="1" as="geometry">
             <mxPoint x="5" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwafR3L3VAN348FCxoly-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FwafR3L3VAN348FCxoly-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="370" as="sourcePoint" />
             <mxPoint x="270" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwafR3L3VAN348FCxoly-8" value="几何元素个数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FwafR3L3VAN348FCxoly-4">
+        <mxCell id="FwafR3L3VAN348FCxoly-8" value="几何元素个数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FwafR3L3VAN348FCxoly-4" vertex="1" connectable="0">
           <mxGeometry x="-0.305" y="3" relative="1" as="geometry">
             <mxPoint x="12" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwafR3L3VAN348FCxoly-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="FwafR3L3VAN348FCxoly-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="310" as="sourcePoint" />
             <mxPoint x="340" y="220" as="targetPoint" />
@@ -52,17 +52,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwafR3L3VAN348FCxoly-12" value="尺寸约束：几何元素或几何约束间的尺寸关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FwafR3L3VAN348FCxoly-5">
+        <mxCell id="FwafR3L3VAN348FCxoly-12" value="尺寸约束：几何元素或几何约束间的尺寸关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FwafR3L3VAN348FCxoly-5" vertex="1" connectable="0">
           <mxGeometry x="0.8261" y="2" relative="1" as="geometry">
             <mxPoint x="140" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwafR3L3VAN348FCxoly-13" value="几何约束：几何元素间的拓扑结构关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FwafR3L3VAN348FCxoly-5">
+        <mxCell id="FwafR3L3VAN348FCxoly-13" value="几何约束：几何元素间的拓扑结构关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FwafR3L3VAN348FCxoly-5" vertex="1" connectable="0">
           <mxGeometry x="-0.7913" relative="1" as="geometry">
             <mxPoint x="124" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwafR3L3VAN348FCxoly-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="FwafR3L3VAN348FCxoly-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="420" as="sourcePoint" />
             <mxPoint x="340" y="330" as="targetPoint" />
@@ -71,25 +71,128 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwafR3L3VAN348FCxoly-14" value="一元约束：被约束几何元素只有一个" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FwafR3L3VAN348FCxoly-10">
+        <mxCell id="FwafR3L3VAN348FCxoly-14" value="一元约束：被约束几何元素只有一个" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FwafR3L3VAN348FCxoly-10" vertex="1" connectable="0">
           <mxGeometry x="0.8087" y="-1" relative="1" as="geometry">
             <mxPoint x="122" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwafR3L3VAN348FCxoly-16" value="三元约束：被约束几何元素只有三个" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FwafR3L3VAN348FCxoly-10">
+        <mxCell id="FwafR3L3VAN348FCxoly-16" value="三元约束：被约束几何元素只有三个" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FwafR3L3VAN348FCxoly-10" vertex="1" connectable="0">
           <mxGeometry x="-0.8348" y="-2" relative="1" as="geometry">
             <mxPoint x="119" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwafR3L3VAN348FCxoly-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FwafR3L3VAN348FCxoly-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="370" as="sourcePoint" />
             <mxPoint x="340" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FwafR3L3VAN348FCxoly-15" value="二元约束：被约束几何元素只有两个" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FwafR3L3VAN348FCxoly-11">
+        <mxCell id="FwafR3L3VAN348FCxoly-15" value="二元约束：被约束几何元素只有两个" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FwafR3L3VAN348FCxoly-11" vertex="1" connectable="0">
           <mxGeometry x="0.4571" y="2" relative="1" as="geometry">
             <mxPoint x="119" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="530" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="730" as="sourcePoint" />
+            <mxPoint x="280" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-3" value="选中需要约束&lt;br&gt;的图元对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="770" as="sourcePoint" />
+            <mxPoint x="280" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-5" value="点击菜单栏的&lt;br&gt;约束添加命令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-5" target="ZC_2awQbRUudxoVVbSpu-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="860" as="sourcePoint" />
+            <mxPoint x="280" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-15" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-7" value="判断是否符合&lt;br&gt;约束参数调节" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="820" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="1020" as="sourcePoint" />
+            <mxPoint x="280" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-11" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZC_2awQbRUudxoVVbSpu-9">
+          <mxGeometry x="-0.4333" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-12" value="弹出消息提示框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="1110" as="sourcePoint" />
+            <mxPoint x="280" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-16" value="开启OCAF文档事务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="900" as="sourcePoint" />
+            <mxPoint x="530" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-19" value="根据选中的图元和点击的命令创建约束对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="990" as="sourcePoint" />
+            <mxPoint x="590" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-21" value="创建约束添加草图数据改变对象并压入Undo栈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1110" as="sourcePoint" />
+            <mxPoint x="590" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-23" value="将创建的约束对象存入容器并在左侧容器可视化出约束对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="1120" as="sourcePoint" />
+            <mxPoint x="490" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-26" value="提交OCAF文档事务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-26" target="ZC_2awQbRUudxoVVbSpu-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1230" as="sourcePoint" />
+            <mxPoint x="220" y="1180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
