@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T08:36:15.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="eRZ9YirDUKW9UyIgZCIQ" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T08:41:09.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="MB7rzCicG9hywA4cR14L" version="21.0.6" type="github">
   <diagram name="第 1 页" id="1So_czDSUBuQiFDamGuW">
     <mxGraphModel dx="1269" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,12 +162,6 @@
         <mxCell id="ZC_2awQbRUudxoVVbSpu-19" value="根据选中的图元和点击的命令创建约束对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZC_2awQbRUudxoVVbSpu-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="990" as="sourcePoint" />
-            <mxPoint x="590" y="980" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZC_2awQbRUudxoVVbSpu-21" value="创建约束添加草图数据改变对象并压入Undo栈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="980" width="120" height="60" as="geometry" />
         </mxCell>
@@ -193,6 +187,35 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="1230" as="sourcePoint" />
             <mxPoint x="220" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-19" target="ZC_2awQbRUudxoVVbSpu-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="900" as="sourcePoint" />
+            <mxPoint x="710" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-30" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="869.6666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-29" value="是否是&lt;br&gt;尺寸约束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="830" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-31" value="弹出对话框获取约束长度或角度，并存入约束对象中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-31" target="ZC_2awQbRUudxoVVbSpu-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="1030" as="sourcePoint" />
+            <mxPoint x="870" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-39" value="否" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZC_2awQbRUudxoVVbSpu-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="715" y="940" as="sourcePoint" />
+            <mxPoint x="760" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
