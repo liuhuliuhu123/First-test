@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T08:54:42.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="kY6e9mKEetm9zN7Xuch5" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T09:07:49.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="7WTpJTkZoVKcDsIEHwJH" version="21.0.6" type="github">
   <diagram name="第 1 页" id="1So_czDSUBuQiFDamGuW">
-    <mxGraphModel dx="616" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,6 +216,107 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="715" y="940" as="sourcePoint" />
             <mxPoint x="760" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-40" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="780" as="sourcePoint" />
+            <mxPoint x="1150" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-42" value="双击左侧约束的可视化显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="800" as="sourcePoint" />
+            <mxPoint x="1150" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-46" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.384;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-44" target="ZC_2awQbRUudxoVVbSpu-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150.6666666666667" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-48" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-44" value="是否是&lt;br&gt;尺寸约束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-47" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-49" value="属性框修改约束值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1410" y="820" as="sourcePoint" />
+            <mxPoint x="1420" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-51" value="提交OCAF事务并修改约束对象数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1580" y="830" as="sourcePoint" />
+            <mxPoint x="1590" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-53" value="约束流求解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1610" y="940" as="sourcePoint" />
+            <mxPoint x="1650" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-56" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-55" target="ZC_2awQbRUudxoVVbSpu-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1650.6666666666665" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-58" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1520" y="910.6666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-55" value="是否求解成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-57" value="更新草图显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-59" value="OCAF事务撤销并草图约束数据返回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-59" target="ZC_2awQbRUudxoVVbSpu-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="910" as="sourcePoint" />
+            <mxPoint x="1330" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-61" value="报告错误信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-57" target="ZC_2awQbRUudxoVVbSpu-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1430" y="1040" as="sourcePoint" />
+            <mxPoint x="1480" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-65" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZC_2awQbRUudxoVVbSpu-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="1050" as="sourcePoint" />
+            <mxPoint x="1440" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
