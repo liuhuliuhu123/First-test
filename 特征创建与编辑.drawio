@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T07:42:39.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="H8tm2o3HKaNRgW0EtJSS" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T08:15:45.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="8XQrS__7R9TGim_3Ox2J" version="21.0.6" type="github">
   <diagram name="第 1 页" id="aSI_KmaN6ENxHBO8ahHy">
-    <mxGraphModel dx="1833" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1571" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,6 +190,167 @@
         </mxCell>
         <mxCell id="Hwy9qkU3soCEkyCqni0h-68" value="擦除临时显示，并在历史树和场景中显示结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="608" y="925" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-70" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-72" value="选择当前显示实体要修饰的拓扑元素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-74" value="点击修饰命令，由默认修饰参数生成临时显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="420" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-78" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-81" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-77" value="显示是否&lt;br&gt;符合用户需求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="550" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-79" target="Hwy9qkU3soCEkyCqni0h-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-79" value="调整参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-82" target="Hwy9qkU3soCEkyCqni0h-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-82" value="擦除临时显示，并在历史树和场景中显示结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-85" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-86" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-89" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-88" target="Hwy9qkU3soCEkyCqni0h-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-90" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-88" target="Hwy9qkU3soCEkyCqni0h-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-88" value="是否确认生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-93" target="Hwy9qkU3soCEkyCqni0h-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-93" value="工具栏点击转换特征命令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-96" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1670" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-99" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-95" value="是否选中要&lt;br&gt;变换的特征" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-97" target="Hwy9qkU3soCEkyCqni0h-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1740" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-97" value="弹出特征对话框供用户选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-100" value="由选择的特征和默认参数生成临时显示实体并显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-107" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-113" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-103" target="Hwy9qkU3soCEkyCqni0h-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1630" y="740" />
+              <mxPoint x="1630" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-103" value="是否符合&lt;br&gt;用户要求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-105" target="Hwy9qkU3soCEkyCqni0h-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1720" y="680" />
+              <mxPoint x="1560" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-105" value="调整参数改变临时显示实体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="715" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-109" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-111" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1660" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-108" value="是否确认&lt;br&gt;生成特征" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-110" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hwy9qkU3soCEkyCqni0h-112" target="Hwy9qkU3soCEkyCqni0h-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1720" y="985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hwy9qkU3soCEkyCqni0h-112" value="擦除临时显示，并在历史树和场景中显示结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
