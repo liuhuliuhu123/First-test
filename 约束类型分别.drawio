@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T09:07:49.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="7WTpJTkZoVKcDsIEHwJH" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T01:22:08.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="lZzVGaZzk_LVsDgx3dQ3" version="21.0.6" type="github">
   <diagram name="第 1 页" id="1So_czDSUBuQiFDamGuW">
-    <mxGraphModel dx="936" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1439" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -318,6 +318,61 @@
             <mxPoint x="1320" y="1050" as="sourcePoint" />
             <mxPoint x="1440" y="690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-66" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="555" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1930" y="770" as="sourcePoint" />
+            <mxPoint x="1990" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-68" value="鼠标右键点击QListView的项，系统高亮显示同时显示删除按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1970" y="900" as="sourcePoint" />
+            <mxPoint x="1990" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-71" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-70" target="ZC_2awQbRUudxoVVbSpu-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-72" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1990" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-70" value="是否是想&lt;br&gt;删除的约束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-75" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2070" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-76" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1990" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-74" value="是否按&lt;br&gt;下删除按钮" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="960" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-77" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="1100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZC_2awQbRUudxoVVbSpu-78" target="ZC_2awQbRUudxoVVbSpu-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2150" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_2awQbRUudxoVVbSpu-78" value="约束求解更新自由度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
