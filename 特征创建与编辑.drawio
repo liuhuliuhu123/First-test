@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T09:31:03.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="l-TI8LMdXSSCxXz0kA-6" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T09:37:44.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="7YyEb_5XJa3N5Dt4RBnK" version="21.0.6" type="github">
   <diagram name="第 1 页" id="aSI_KmaN6ENxHBO8ahHy">
     <mxGraphModel dx="1571" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -490,6 +490,42 @@
         </mxCell>
         <mxCell id="PyKdCZ7jCQ_6fwLqJQLz-38" value="修改特征时的&lt;br&gt;临时显示" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2660" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PyKdCZ7jCQ_6fwLqJQLz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PyKdCZ7jCQ_6fwLqJQLz-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3220" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PyKdCZ7jCQ_6fwLqJQLz-39" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3160" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PyKdCZ7jCQ_6fwLqJQLz-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PyKdCZ7jCQ_6fwLqJQLz-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3220" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PyKdCZ7jCQ_6fwLqJQLz-41" value="双击树节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3160" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PyKdCZ7jCQ_6fwLqJQLz-45" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PyKdCZ7jCQ_6fwLqJQLz-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3370" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PyKdCZ7jCQ_6fwLqJQLz-43" value="特征是否&lt;br&gt;是基准特征" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3180" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PyKdCZ7jCQ_6fwLqJQLz-47" value="显示到修改特征之外的拓扑实体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3160" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PyKdCZ7jCQ_6fwLqJQLz-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PyKdCZ7jCQ_6fwLqJQLz-47" target="PyKdCZ7jCQ_6fwLqJQLz-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3060" y="710" as="sourcePoint" />
+            <mxPoint x="3110" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PyKdCZ7jCQ_6fwLqJQLz-49" value="显示当前特征Label存储的实体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3370" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
