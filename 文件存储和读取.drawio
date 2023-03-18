@@ -1,1 +1,116 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T11:51:06.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" version="21.0.7" etag="6kffKqep3xmzlgNc3eS8" type="github"><diagram name="第 1 页" id="0Em5EwTK6glhkeCX4Q82">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-18T12:12:45.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="tE1wCTFAz7P4ypcwPCgK" version="21.0.7" type="github">
+  <diagram name="第 1 页" id="0Em5EwTK6glhkeCX4Q82">
+    <mxGraphModel dx="2977" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jxCu223SDdkoaslGFEt7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jxCu223SDdkoaslGFEt7-1" target="jxCu223SDdkoaslGFEt7-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-4" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jxCu223SDdkoaslGFEt7-3" target="jxCu223SDdkoaslGFEt7-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-8" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jxCu223SDdkoaslGFEt7-3" target="jxCu223SDdkoaslGFEt7-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-30" y="310" />
+              <mxPoint x="-30" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-3" value="是否已经&lt;br&gt;开始建模" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-7" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jxCu223SDdkoaslGFEt7-5" target="jxCu223SDdkoaslGFEt7-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-9" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jxCu223SDdkoaslGFEt7-5" target="jxCu223SDdkoaslGFEt7-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-5" value="建造的模型&lt;br&gt;是否已经保存" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="380" width="102.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jxCu223SDdkoaslGFEt7-10" target="jxCu223SDdkoaslGFEt7-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-10" value="弹出消息对话框提示当前模型未保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jxCu223SDdkoaslGFEt7-11" target="jxCu223SDdkoaslGFEt7-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="78.75" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-11" value="弹出文件选中对话框并选中文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18.75" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-14" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jxCu223SDdkoaslGFEt7-13" target="jxCu223SDdkoaslGFEt7-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-13" value="选中的文件是否&lt;br&gt;以cbf后缀结尾" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17.5" y="610" width="121.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jxCu223SDdkoaslGFEt7-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-16" value="读取文件填充doc文档并更新V3d_Viewer和AIS_InteractiveContext" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="830" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jxCu223SDdkoaslGFEt7-19" target="jxCu223SDdkoaslGFEt7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-19" value="清除已经保存的模型的显示已经历史树特征节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jxCu223SDdkoaslGFEt7-22" target="jxCu223SDdkoaslGFEt7-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-22" value="重新在堆上开辟数据模型存储空间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jxCu223SDdkoaslGFEt7-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="78.75" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-24" value="读取文档内容重新生成特征对象存入数据模型并更新显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18.75" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-27" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jxCu223SDdkoaslGFEt7-30" target="jxCu223SDdkoaslGFEt7-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="370" />
+              <mxPoint x="79" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jxCu223SDdkoaslGFEt7-30" value="保存模型后重新打开文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
