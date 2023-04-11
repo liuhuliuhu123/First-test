@@ -1,9 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T01:22:05.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" version="21.1.1" etag="3nYflvSw_73WYF7Nw66M" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T01:31:14.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="AxmHizvQpQgcbSU0z9-S" version="21.1.1" type="github">
   <diagram name="第 1 页" id="y29a10bk7sjenyrdI8TC">
-    <mxGraphModel>
+    <mxGraphModel dx="1290" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jlmzlyPUuozx9yNp4t7C-4" value="创建模型" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jlmzlyPUuozx9yNp4t7C-1" target="jlmzlyPUuozx9yNp4t7C-2">
+          <mxGeometry x="-0.1111" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlmzlyPUuozx9yNp4t7C-1" value="模型设计人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlmzlyPUuozx9yNp4t7C-5" value="保存模型" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jlmzlyPUuozx9yNp4t7C-2" target="jlmzlyPUuozx9yNp4t7C-3">
+          <mxGeometry x="-0.25" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlmzlyPUuozx9yNp4t7C-2" value="特征造型系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jlmzlyPUuozx9yNp4t7C-3" value="模型文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
