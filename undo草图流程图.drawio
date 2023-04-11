@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T08:01:11.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" version="21.1.1" etag="uyArlAc7jSt6ZX-dHu36" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T08:01:17.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="fQPMs_j6cqOjqvDmhfx0" version="21.1.1" type="github">
   <diagram name="第 1 页" id="H2VsTCnGVWqTWxB8TVlh">
-    <mxGraphModel>
+    <mxGraphModel dx="2117" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sITHpButN_qVvpifIUiE-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="600" width="93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sITHpButN_qVvpifIUiE-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-420" y="740" as="sourcePoint" />
+            <mxPoint x="-453" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-3" value="Undo命令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sITHpButN_qVvpifIUiE-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-450" y="830" as="sourcePoint" />
+            <mxPoint x="-450" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-5" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sITHpButN_qVvpifIUiE-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-6" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sITHpButN_qVvpifIUiE-7" target="sITHpButN_qVvpifIUiE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-7" value="Undo栈&lt;br&gt;是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-8" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-9" value="Undo栈顶元素弹出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sITHpButN_qVvpifIUiE-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="910" as="sourcePoint" />
+            <mxPoint x="-180" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-11" value="执行弹出元素&lt;br&gt;的Undo函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-12" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sITHpButN_qVvpifIUiE-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-13" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sITHpButN_qVvpifIUiE-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-119.5" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-14" value="Redo栈&lt;br&gt;是否满" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-15" value="清除Redo栈底元素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-16" value="将Undo栈弹出&lt;br&gt;的元素入Redo栈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="sITHpButN_qVvpifIUiE-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="1070" as="sourcePoint" />
+            <mxPoint x="50" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sITHpButN_qVvpifIUiE-11" target="sITHpButN_qVvpifIUiE-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="980" as="sourcePoint" />
+            <mxPoint x="-230" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sITHpButN_qVvpifIUiE-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sITHpButN_qVvpifIUiE-16" target="sITHpButN_qVvpifIUiE-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-330" y="1110" as="sourcePoint" />
+            <mxPoint x="-280" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
