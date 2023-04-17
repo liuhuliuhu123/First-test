@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T00:54:17.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="FTkvYhS_tmxg5L7QUYZ9" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T01:03:29.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="1pqZqgjDaNgXqakdntQJ" version="21.1.8" type="github">
   <diagram name="第 1 页" id="JM34GpekIaFiEN-BX6mc">
-    <mxGraphModel dx="1571" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1800" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="230" y="50" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktY3OB7U2GAJDPj4qMiH-2" value="拓扑元素命名与辨识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="120" width="80" height="30" as="geometry" />
+          <mxGeometry x="-440" y="120" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktY3OB7U2GAJDPj4qMiH-3" value="模型显示与交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="120" width="80" height="30" as="geometry" />
@@ -29,19 +29,121 @@
           <mxGeometry x="450" y="120" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktY3OB7U2GAJDPj4qMiH-9" value="原始名命名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="200" width="80" height="30" as="geometry" />
+          <mxGeometry x="-493" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktY3OB7U2GAJDPj4qMiH-10" value="引用名命名与辨识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="200" width="80" height="30" as="geometry" />
+          <mxGeometry x="-390" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktY3OB7U2GAJDPj4qMiH-11" value="基准特征创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="200" width="80" height="30" as="geometry" />
+          <mxGeometry x="90" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktY3OB7U2GAJDPj4qMiH-12" value="草图特征创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="200" width="80" height="30" as="geometry" />
+          <mxGeometry x="-230" y="190" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktY3OB7U2GAJDPj4qMiH-13" value="基体特征创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-14" value="修饰特征创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-15" value="变换特征创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-17" value="基准点特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-18" value="基准面特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-19" value="基准轴特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-20" value="图元编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-21" value="拉伸特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-22" value="挖孔特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-23" value="旋转特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-24" value="挖槽特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-25" value="增料扫掠特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-26" value="减料扫掠特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-27" value="倒圆角特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-28" value="倒方角特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="330" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-29" value="镜像特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-30" value="线性阵列特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="330" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-31" value="圆性阵列特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-35" value="约束添加与编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-37" value="图元创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-38" value="Undo/Redo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-40" value="点图元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-41" value="直线图元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-42" value="圆弧图元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-43" value="圆图元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-44" value="样条曲线图元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="480" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-45" value="图元删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-46" value="图元裁剪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-47" value="图元延长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="460" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-48" value="图元移动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-50" value="约束添加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-51" value="约束删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-52" value="约束参数修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="420" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-53" value="外部参考" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="460" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-54" value="转化为参考" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="510" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
