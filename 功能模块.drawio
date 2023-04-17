@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T00:47:56.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" version="21.1.8" etag="Zhq3NPvzDKIR8kbPJaw0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T00:54:17.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="FTkvYhS_tmxg5L7QUYZ9" version="21.1.8" type="github">
   <diagram name="第 1 页" id="JM34GpekIaFiEN-BX6mc">
-    <mxGraphModel>
+    <mxGraphModel dx="1571" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-1" value="特征造型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-2" value="拓扑元素命名与辨识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-3" value="模型显示与交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-4" value="模型历史管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-5" value="特征设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-6" value="视图操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-7" value="模型数据存储与读取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-8" value="异构模型转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-9" value="原始名命名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-10" value="引用名命名与辨识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-11" value="基准特征创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-12" value="草图特征创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ktY3OB7U2GAJDPj4qMiH-13" value="基体特征创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
