@@ -1,78 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T00:23:30.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="r9iAmceu1lkpOvrLa7yn" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T01:21:25.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="e1vNl_d6esnTUneWGNz4" version="21.2.1" type="github">
   <diagram name="第 1 页" id="HoKVWOjqDg0eMbLdHjok">
     <mxGraphModel dx="1290" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4v0bIVO7RTDEstCtmYWq-1" target="4v0bIVO7RTDEstCtmYWq-3">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4v0bIVO7RTDEstCtmYWq-1" target="4v0bIVO7RTDEstCtmYWq-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-1" value="交互界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-1" value="交互界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="55" y="175" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4v0bIVO7RTDEstCtmYWq-3" target="4v0bIVO7RTDEstCtmYWq-5">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4v0bIVO7RTDEstCtmYWq-3" target="4v0bIVO7RTDEstCtmYWq-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-3" value="几何约束表示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-3" value="几何约束表示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4v0bIVO7RTDEstCtmYWq-5" target="4v0bIVO7RTDEstCtmYWq-1">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4v0bIVO7RTDEstCtmYWq-5" target="4v0bIVO7RTDEstCtmYWq-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="490" y="280" />
-              <mxPoint x="85" y="280" />
+              <mxPoint x="95" y="280" />
             </Array>
+            <mxPoint x="40" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-5" value="几何约束求解器&lt;br&gt;PlaneGCS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-5" value="几何约束求解器&lt;br&gt;PlaneGCS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-7" value="约束命令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-7" value="约束命令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="135" y="178" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-8" value="载入约束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-8" value="载入约束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="344" y="178" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-9" value="求解计算并更新" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-9" value="求解计算并更新" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="215" y="258" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4v0bIVO7RTDEstCtmYWq-11" target="4v0bIVO7RTDEstCtmYWq-13">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4v0bIVO7RTDEstCtmYWq-11" target="4v0bIVO7RTDEstCtmYWq-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-11" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-11" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4v0bIVO7RTDEstCtmYWq-13" target="4v0bIVO7RTDEstCtmYWq-15">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4v0bIVO7RTDEstCtmYWq-13" target="4v0bIVO7RTDEstCtmYWq-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-13" value="遍历约束对象容器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-13" value="遍历约束对象容器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4v0bIVO7RTDEstCtmYWq-15" target="4v0bIVO7RTDEstCtmYWq-17">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4v0bIVO7RTDEstCtmYWq-15" target="4v0bIVO7RTDEstCtmYWq-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-15" value="求解器内部创建真正的约束对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-15" value="求解器内部创建真正的约束对象" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4v0bIVO7RTDEstCtmYWq-17" target="4v0bIVO7RTDEstCtmYWq-19">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4v0bIVO7RTDEstCtmYWq-17" target="4v0bIVO7RTDEstCtmYWq-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-17" value="求解计算并更新草图形状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-17" value="求解计算并更新草图形状" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4v0bIVO7RTDEstCtmYWq-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4v0bIVO7RTDEstCtmYWq-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
