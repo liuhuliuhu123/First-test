@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-16T01:23:10.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="MSo1IPLDRJWhLFLVDjxA" version="21.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T09:02:45.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="yelA7OSarOQJwqhSJdf4" version="22.0.4" type="github">
   <diagram name="第 1 页" id="obXDIkw4ct05Dv1w8uGv">
-    <mxGraphModel dx="2117" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
         <mxCell id="hpdYj8IzXZtInwZiu81i-23" value="模型数据存取" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="340" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hpdYj8IzXZtInwZiu81i-24" value="异构模型转换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hpdYj8IzXZtInwZiu81i-24" value="FreeCAD模型转换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="380" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hpdYj8IzXZtInwZiu81i-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
@@ -184,10 +184,10 @@
             <mxPoint x="540" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hpdYj8IzXZtInwZiu81i-77" value="异构模型文件" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="hpdYj8IzXZtInwZiu81i-77" value="FreeCAD模型文件" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-90" y="490" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FGgtW8K9BUZy6P2zBws3-1" value="异构模型文件读取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FGgtW8K9BUZy6P2zBws3-1" value="FreeCAD模型转换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="500" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
