@@ -1,9 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T08:47:29.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" version="22.0.7" etag="xBP_1mfkW6kLXMRbu2KF" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T08:51:45.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="ZYvw6fi_Og-ea95DcGuZ" version="22.0.8" type="github">
   <diagram name="第 1 页" id="m0kvy2fpr-Au96zsVXNi">
-    <mxGraphModel>
+    <mxGraphModel dx="1290" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LVeAIGhEUG6iq3q66IUY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LVeAIGhEUG6iq3q66IUY-1" target="LVeAIGhEUG6iq3q66IUY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LVeAIGhEUG6iq3q66IUY-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVeAIGhEUG6iq3q66IUY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LVeAIGhEUG6iq3q66IUY-2" target="LVeAIGhEUG6iq3q66IUY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LVeAIGhEUG6iq3q66IUY-2" value="选中“读取HNF文件”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVeAIGhEUG6iq3q66IUY-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LVeAIGhEUG6iq3q66IUY-3" target="LVeAIGhEUG6iq3q66IUY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LVeAIGhEUG6iq3q66IUY-3" value="选中目标HNF文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVeAIGhEUG6iq3q66IUY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LVeAIGhEUG6iq3q66IUY-4" target="LVeAIGhEUG6iq3q66IUY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LVeAIGhEUG6iq3q66IUY-4" value="读取文件生成OCAF文档对象等信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVeAIGhEUG6iq3q66IUY-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LVeAIGhEUG6iq3q66IUY-5" target="LVeAIGhEUG6iq3q66IUY-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVeAIGhEUG6iq3q66IUY-5" value="遍历文档节点生成相应的特征对象存入容器并进行模型重建" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVeAIGhEUG6iq3q66IUY-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
