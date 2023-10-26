@@ -1,9 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T06:24:40.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" version="22.0.7" etag="ANmdBJ5Gl7cF6R5r6Wcs" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T06:38:16.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="luzAYFb0yCGfzNA-ki7O" version="22.0.7" type="github">
   <diagram name="第 1 页" id="EhKe9NftEX98keBFsyBo">
-    <mxGraphModel>
+    <mxGraphModel dx="2117" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ICWbasAjBhNyaeu2vMTG-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-180" y="230" as="sourcePoint" />
+            <mxPoint x="-60" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-1" value="建模历史修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="180" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ICWbasAjBhNyaeu2vMTG-4" target="ICWbasAjBhNyaeu2vMTG-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-4" value="其他特征修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ICWbasAjBhNyaeu2vMTG-5" target="ICWbasAjBhNyaeu2vMTG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-5" value="树节点双击信号发送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ICWbasAjBhNyaeu2vMTG-6" target="ICWbasAjBhNyaeu2vMTG-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="240" />
+              <mxPoint x="270" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ICWbasAjBhNyaeu2vMTG-6" target="ICWbasAjBhNyaeu2vMTG-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="240" />
+              <mxPoint x="270" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-6" value="由树节点在特征历史树中的X、Y坐标从数据模型Map容器中取得对应的特征对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ICWbasAjBhNyaeu2vMTG-7" target="ICWbasAjBhNyaeu2vMTG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-7" value="显示草图轮廓，模型显示为草图上一个历史形体，调整视角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ICWbasAjBhNyaeu2vMTG-8" target="ICWbasAjBhNyaeu2vMTG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-8" value="读取特征参数信息，并以此生成参数调整对话框；并修改模型显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ICWbasAjBhNyaeu2vMTG-9" target="ICWbasAjBhNyaeu2vMTG-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="170" />
+              <mxPoint x="590" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-9" value="修改草图数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ICWbasAjBhNyaeu2vMTG-10" target="ICWbasAjBhNyaeu2vMTG-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="310" />
+              <mxPoint x="590" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-10" value="修改特征参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-11" value="从修改的特征开始进行模型重建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ICWbasAjBhNyaeu2vMTG-12" target="ICWbasAjBhNyaeu2vMTG-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICWbasAjBhNyaeu2vMTG-12" value="草图特征修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
