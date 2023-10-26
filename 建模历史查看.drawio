@@ -1,95 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T06:23:39.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="o4RUTcYlCAOMm9_bTPWM" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T06:29:12.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="QN94QIxK9M1dyaVvK1ib" version="22.0.7" type="github">
   <diagram name="第 1 页" id="KYP6m6URt_sWf72qFTFN">
     <mxGraphModel dx="1290" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z0fU7bqc94iNgIzK22HY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0fU7bqc94iNgIzK22HY-8" target="z0fU7bqc94iNgIzK22HY-11">
+        <mxCell id="z0fU7bqc94iNgIzK22HY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="z0fU7bqc94iNgIzK22HY-8" target="z0fU7bqc94iNgIzK22HY-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z0fU7bqc94iNgIzK22HY-8" target="z0fU7bqc94iNgIzK22HY-9">
+        <mxCell id="z0fU7bqc94iNgIzK22HY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z0fU7bqc94iNgIzK22HY-8" target="z0fU7bqc94iNgIzK22HY-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="310" />
-              <mxPoint x="100" y="310" />
+              <mxPoint x="280" y="300" />
+              <mxPoint x="100" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z0fU7bqc94iNgIzK22HY-8" target="z0fU7bqc94iNgIzK22HY-12">
+        <mxCell id="z0fU7bqc94iNgIzK22HY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z0fU7bqc94iNgIzK22HY-8" target="z0fU7bqc94iNgIzK22HY-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="310" />
-              <mxPoint x="450" y="310" />
+              <mxPoint x="280" y="300" />
+              <mxPoint x="450" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-8" value="建模历史查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z0fU7bqc94iNgIzK22HY-8" value="建模历史查看" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z0fU7bqc94iNgIzK22HY-9" target="z0fU7bqc94iNgIzK22HY-13">
+        <mxCell id="z0fU7bqc94iNgIzK22HY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z0fU7bqc94iNgIzK22HY-9" target="z0fU7bqc94iNgIzK22HY-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="410" />
-              <mxPoint x="280" y="410" />
+              <mxPoint x="100" y="390" />
+              <mxPoint x="280" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-9" value="草图轮廓查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="z0fU7bqc94iNgIzK22HY-9" value="草图轮廓查看" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0fU7bqc94iNgIzK22HY-11" target="z0fU7bqc94iNgIzK22HY-13">
+        <mxCell id="z0fU7bqc94iNgIzK22HY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="z0fU7bqc94iNgIzK22HY-11" target="z0fU7bqc94iNgIzK22HY-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-11" value="历史形体查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="z0fU7bqc94iNgIzK22HY-11" value="历史形体查看" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z0fU7bqc94iNgIzK22HY-12" target="z0fU7bqc94iNgIzK22HY-13">
+        <mxCell id="z0fU7bqc94iNgIzK22HY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z0fU7bqc94iNgIzK22HY-12" target="z0fU7bqc94iNgIzK22HY-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="410" />
-              <mxPoint x="280" y="410" />
+              <mxPoint x="460" y="390" />
+              <mxPoint x="280" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-12" value="特征参数信息查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="z0fU7bqc94iNgIzK22HY-12" value="特征参数信息查看" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0fU7bqc94iNgIzK22HY-13" target="z0fU7bqc94iNgIzK22HY-14">
+        <mxCell id="z0fU7bqc94iNgIzK22HY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="z0fU7bqc94iNgIzK22HY-13" target="z0fU7bqc94iNgIzK22HY-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-13" value="树节点信号发送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="z0fU7bqc94iNgIzK22HY-13" value="树节点信号发送" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0fU7bqc94iNgIzK22HY-14" target="z0fU7bqc94iNgIzK22HY-16">
+        <mxCell id="z0fU7bqc94iNgIzK22HY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="z0fU7bqc94iNgIzK22HY-14" target="z0fU7bqc94iNgIzK22HY-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z0fU7bqc94iNgIzK22HY-14" target="z0fU7bqc94iNgIzK22HY-15">
+        <mxCell id="z0fU7bqc94iNgIzK22HY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z0fU7bqc94iNgIzK22HY-14" target="z0fU7bqc94iNgIzK22HY-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="570" />
-              <mxPoint x="100" y="570" />
+              <mxPoint x="280" y="560" />
+              <mxPoint x="100" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z0fU7bqc94iNgIzK22HY-14" target="z0fU7bqc94iNgIzK22HY-17">
+        <mxCell id="z0fU7bqc94iNgIzK22HY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z0fU7bqc94iNgIzK22HY-14" target="z0fU7bqc94iNgIzK22HY-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="570" />
-              <mxPoint x="460" y="570" />
+              <mxPoint x="280" y="560" />
+              <mxPoint x="460" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-14" value="由树节点在特征历史树中的X、Y坐标从数据模型Map容器中取得对应的特征对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="z0fU7bqc94iNgIzK22HY-14" value="由树节点在特征历史树中的X、Y坐标从数据模型Map容器中取得对应的特征对象" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-15" value="读取草图数据显示草图轮廓并更新特征历史树" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="585" width="120" height="60" as="geometry" />
+        <mxCell id="z0fU7bqc94iNgIzK22HY-15" value="读取草图数据显示草图轮廓,并更新特征历史树" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-16" value="擦除原形体，显示新形体更新特征历史树" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="590" width="120" height="60" as="geometry" />
+        <mxCell id="z0fU7bqc94iNgIzK22HY-16" value="擦除原形体，显示新形体，并更新特征历史树" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z0fU7bqc94iNgIzK22HY-17" value="读取特征信息填充属性浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="585" width="120" height="60" as="geometry" />
+        <mxCell id="z0fU7bqc94iNgIzK22HY-17" value="读取特征信息填充属性浏览器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
