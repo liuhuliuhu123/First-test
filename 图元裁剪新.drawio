@@ -1,9 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T07:06:42.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" version="22.0.8" etag="_4gV_Fp2xY8pzbcGo1qD" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T07:13:05.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="vHt2_FJyCPUiYnFpgIC7" version="22.0.8" type="github">
   <diagram name="第 1 页" id="e_o4env3HkdlXo3GYPFy">
-    <mxGraphModel>
+    <mxGraphModel dx="1290" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0r3E1O9jQe5Kkb9FBnz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0r3E1O9jQe5Kkb9FBnz-3" target="h0r3E1O9jQe5Kkb9FBnz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-3" value="点击图元进行裁剪并记下点击的鼠标点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0r3E1O9jQe5Kkb9FBnz-5" target="h0r3E1O9jQe5Kkb9FBnz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-5" value="计算裁剪图元与其他图元的交点并存入容器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0r3E1O9jQe5Kkb9FBnz-7" target="h0r3E1O9jQe5Kkb9FBnz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-7" value="擦除容器中不在裁剪图元上的交点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0r3E1O9jQe5Kkb9FBnz-9" target="h0r3E1O9jQe5Kkb9FBnz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-9" value="将图元的起点和终点存入容器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0r3E1O9jQe5Kkb9FBnz-10" target="h0r3E1O9jQe5Kkb9FBnz-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-10" value="将容器从小到大排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0r3E1O9jQe5Kkb9FBnz-11" target="h0r3E1O9jQe5Kkb9FBnz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-11" value="分析裁剪后图元改变情况" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0r3E1O9jQe5Kkb9FBnz-12" target="h0r3E1O9jQe5Kkb9FBnz-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-12" value="更改草图数据并更新视图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h0r3E1O9jQe5Kkb9FBnz-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
