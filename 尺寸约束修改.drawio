@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T08:56:11.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="uKLv6E832AuBm2PImC_M" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T09:03:43.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="arg7DtyScMLuaBlGSQcl" version="22.0.8" type="github">
   <diagram name="第 1 页" id="GzK9gZs1j2KBQpUl1mnI">
     <mxGraphModel dx="2117" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,25 +56,25 @@
         <mxCell id="oaIH6JeBifnL5qhLk9MS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oaIH6JeBifnL5qhLk9MS-7" target="oaIH6JeBifnL5qhLk9MS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oaIH6JeBifnL5qhLk9MS-7" value="保存约束对象原参数值并将约束参数置为新值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oaIH6JeBifnL5qhLk9MS-7" value="保存草图状态并将约束参数置为新值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oaIH6JeBifnL5qhLk9MS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oaIH6JeBifnL5qhLk9MS-8" target="oaIH6JeBifnL5qhLk9MS-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oaIH6JeBifnL5qhLk9MS-8" value="将约束对象参数复原" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oaIH6JeBifnL5qhLk9MS-8" value="将草图状态复原" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oaIH6JeBifnL5qhLk9MS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oaIH6JeBifnL5qhLk9MS-9" target="oaIH6JeBifnL5qhLk9MS-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="450" />
+              <mxPoint x="100" y="440" />
               <mxPoint x="100" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oaIH6JeBifnL5qhLk9MS-9" value="报告错误信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oaIH6JeBifnL5qhLk9MS-10" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="230" width="120" height="60" as="geometry" />
