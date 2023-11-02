@@ -1,30 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T01:41:06.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="jgQBDKEypvFuMoKW9w0Y" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T01:42:32.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="WENMZSm7O35QqEO53xRy" version="22.0.8" type="github">
   <diagram name="第 1 页" id="D77pJjPnXhAYYAvztb7z">
     <mxGraphModel dx="1290" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OpUXCmSwJcfaaBgQTvMD-1" value="草图操作开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OpUXCmSwJcfaaBgQTvMD-3" value="开启文档事物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OpUXCmSwJcfaaBgQTvMD-4" value="草图操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OpUXCmSwJcfaaBgQTvMD-5" value="更改草图数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OpUXCmSwJcfaaBgQTvMD-6" value="提交文档事物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OpUXCmSwJcfaaBgQTvMD-7" value="创建数据更改对象设置数据后存入Undo栈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OpUXCmSwJcfaaBgQTvMD-8" value="草图操作结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="OpUXCmSwJcfaaBgQTvMD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OpUXCmSwJcfaaBgQTvMD-9" target="OpUXCmSwJcfaaBgQTvMD-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
