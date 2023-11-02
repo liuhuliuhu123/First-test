@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T01:42:32.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="WENMZSm7O35QqEO53xRy" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T01:42:49.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="BKx4cU9P6nCffbcuSKur" version="22.0.8" type="github">
   <diagram name="第 1 页" id="D77pJjPnXhAYYAvztb7z">
     <mxGraphModel dx="1290" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
         <mxCell id="OpUXCmSwJcfaaBgQTvMD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OpUXCmSwJcfaaBgQTvMD-11" target="OpUXCmSwJcfaaBgQTvMD-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="364" y="430" />
+              <mxPoint x="364" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -42,7 +42,7 @@
           <mxGeometry x="314" y="265" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OpUXCmSwJcfaaBgQTvMD-12" value="撤销或重做结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="400" width="120" height="60" as="geometry" />
+          <mxGeometry y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OpUXCmSwJcfaaBgQTvMD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OpUXCmSwJcfaaBgQTvMD-13" target="OpUXCmSwJcfaaBgQTvMD-14">
           <mxGeometry relative="1" as="geometry" />
@@ -60,13 +60,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OpUXCmSwJcfaaBgQTvMD-15" value="数据更改对象调用Undo/Redo虚函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OpUXCmSwJcfaaBgQTvMD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OpUXCmSwJcfaaBgQTvMD-16" target="OpUXCmSwJcfaaBgQTvMD-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OpUXCmSwJcfaaBgQTvMD-16" value="数据更改对象存入Redo/Undo栈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
