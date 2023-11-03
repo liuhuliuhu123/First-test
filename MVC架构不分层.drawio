@@ -1,9 +1,193 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T06:44:01.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" version="22.0.8" etag="xgNGfmMri7r2aajcVWHl" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T07:33:00.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="HRW_scn_PTRwGiV9ws7v" version="22.0.8" type="github">
   <diagram name="第 1 页" id="5badEJanhhTlUeLxTdYi">
-    <mxGraphModel>
+    <mxGraphModel dx="1290" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="200" height="220" as="geometry">
+            <mxRectangle x="70" y="400" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-7" value="工具菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-2">
+          <mxGeometry x="10" y="20" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-8" value="模型空间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-2">
+          <mxGeometry x="100" y="20" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-9" value="模型历史树" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-2">
+          <mxGeometry x="10" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-11" value="任务窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-2">
+          <mxGeometry x="100" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-10" value="输出窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-2">
+          <mxGeometry x="50" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-117" value="Qt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-2">
+          <mxGeometry x="10" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-118" value="OpenGL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-2">
+          <mxGeometry x="90" y="180" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="20" width="480" height="330" as="geometry">
+            <mxRectangle x="10" y="300" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-57" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="125" y="30" width="185" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-58" value="场景管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="134" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-59" value="历史管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="220" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-60" value="特征创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="220" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-61" value="特征编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="134" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-70" value="草图设计" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="74" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-71" value="模型数据管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="340" y="125" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-72" value="特征建模" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="177.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-62" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="10" y="155" width="190" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-64" value="图元绘制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="20" y="165" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-66" value="图元编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="110" y="165" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-65" value="约束添加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="20" y="202.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-67" value="约束编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="110" y="200" width="80" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-96" value="草图撤销/重做" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="54" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-63" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="280" y="157.5" width="190" height="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-68" value="模型数据存取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="290" y="172.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-69" value="FreeCAD模型导入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="380" y="172.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2F7c7GaDgsHqWVN50e-c-3" source="2F7c7GaDgsHqWVN50e-c-66" target="2F7c7GaDgsHqWVN50e-c-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-101" value="特征数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="290" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-102" value="引用元素辨识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="380" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-111" value="PlaneGCS约束求解器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="10" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-112" value="OpenCASCADE库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="177.5" y="300" width="102.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-113" value="OCAF开发框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry x="335" y="300" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-4" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="200" height="270" as="geometry">
+            <mxRectangle x="10" y="300" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-26" value="FreeCAD模型转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-4">
+          <mxGeometry y="60" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-24" value="HNF模型读存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-4">
+          <mxGeometry x="120" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-22" value="特征数据读取与更改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-4">
+          <mxGeometry y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-23" value="视图通知机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-4">
+          <mxGeometry x="120" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-25" value="拓扑元素命名与辨识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-4">
+          <mxGeometry y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-21" value="属性传递机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-4">
+          <mxGeometry x="120" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-32" value="特征对象容器" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-4">
+          <mxGeometry x="20" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-114" value="拓扑元素命名与辨识算法库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-4">
+          <mxGeometry x="25" y="210" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-115" value="OpenCASCADE库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-4">
+          <mxGeometry y="240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-116" value="OCAF开发框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F7c7GaDgsHqWVN50e-c-4">
+          <mxGeometry x="110" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.004;exitY=0.722;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2F7c7GaDgsHqWVN50e-c-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="500" as="sourcePoint" />
+            <mxPoint x="270" y="560" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;视图&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;模型&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;控制器&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-28" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="2F7c7GaDgsHqWVN50e-c-4" target="2F7c7GaDgsHqWVN50e-c-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="640" as="sourcePoint" />
+            <mxPoint x="630" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.998;exitY=0.148;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2F7c7GaDgsHqWVN50e-c-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="490" as="sourcePoint" />
+            <mxPoint x="680" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-33" value="FCstd模型文件&lt;br&gt;HNF模型文件" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="720" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;模型库&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="745" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.616;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2F7c7GaDgsHqWVN50e-c-4" target="2F7c7GaDgsHqWVN50e-c-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-37" value="更新视图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="508" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-108" value="" style="endArrow=none;html=1;rounded=0;entryX=0.996;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2F7c7GaDgsHqWVN50e-c-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="319" as="sourcePoint" />
+            <mxPoint x="360" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2F7c7GaDgsHqWVN50e-c-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.542;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2F7c7GaDgsHqWVN50e-c-33" target="2F7c7GaDgsHqWVN50e-c-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
