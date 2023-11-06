@@ -1,9 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T01:37:44.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" version="22.0.8" etag="7NOktWrPgBsSpGOvdtCO" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T01:48:25.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="JxazJyki67CX7xF0bhMA" version="22.0.8" type="github">
   <diagram name="第 1 页" id="RmlTkaA-1jOAxN98HU_0">
-    <mxGraphModel>
+    <mxGraphModel dx="1290" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="115" y="280" as="sourcePoint" />
+            <mxPoint x="275" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="270" y="309" as="sourcePoint" />
+            <mxPoint x="120" y="309" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190.5" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="125" y="340.5" as="sourcePoint" />
+            <mxPoint x="275" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="430" as="sourcePoint" />
+            <mxPoint x="270" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="Gghx9RnaRhX2Y3jycpze-2" target="Gghx9RnaRhX2Y3jycpze-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="270" y="450" as="sourcePoint" />
+            <mxPoint x="560" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-8" value="创建特征" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-9" value="返回原始名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="280" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-10" value="属性传递机制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-11" value="算法库处理并返回结果&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="350" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-12" value="特征参数修改，模型重构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="270" y="470" as="sourcePoint" />
+            <mxPoint x="120" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-15" value="引用名辨识" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="438" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="210" as="sourcePoint" />
+            <mxPoint x="280" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-18" value="选中拓扑元素" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="188" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="Gghx9RnaRhX2Y3jycpze-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="270" y="260" as="sourcePoint" />
+            <mxPoint x="400" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gghx9RnaRhX2Y3jycpze-20" value="返回引用名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="228" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
