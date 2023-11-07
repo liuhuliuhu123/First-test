@@ -1,9 +1,117 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T06:51:00.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" version="22.0.8" etag="3H91SbIBes4KaGK9ha3w" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T07:08:48.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="81AW7wUNMe3en1SnJ-lp" version="22.0.8" type="github">
   <diagram name="第 1 页" id="U4oJ_wD_ntlmDtMnG5im">
-    <mxGraphModel>
+    <mxGraphModel dx="-364" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_l9reAorXIAECNk9moxp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_l9reAorXIAECNk9moxp-24" target="_l9reAorXIAECNk9moxp-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-24" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_l9reAorXIAECNk9moxp-25" target="_l9reAorXIAECNk9moxp-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-25" value="工具栏点击线性特征命令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_l9reAorXIAECNk9moxp-26" target="_l9reAorXIAECNk9moxp-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-40" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_l9reAorXIAECNk9moxp-39">
+          <mxGeometry x="0.264" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_l9reAorXIAECNk9moxp-26" target="_l9reAorXIAECNk9moxp-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2170" y="170" />
+              <mxPoint x="2460" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-46" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_l9reAorXIAECNk9moxp-44">
+          <mxGeometry x="-0.7082" y="2" relative="1" as="geometry">
+            <mxPoint x="20" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-26" value="是否选中要&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;变换的特征" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_l9reAorXIAECNk9moxp-27" target="_l9reAorXIAECNk9moxp-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-27" value="弹出特征对话框供用户选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_l9reAorXIAECNk9moxp-28" target="_l9reAorXIAECNk9moxp-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-28" value="由选择的特征和默认参数生成临时显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_l9reAorXIAECNk9moxp-29" target="_l9reAorXIAECNk9moxp-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-52" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_l9reAorXIAECNk9moxp-51">
+          <mxGeometry x="0.312" y="2" relative="1" as="geometry">
+            <mxPoint x="18" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_l9reAorXIAECNk9moxp-29" target="_l9reAorXIAECNk9moxp-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-55" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_l9reAorXIAECNk9moxp-54">
+          <mxGeometry x="0.08" y="2" relative="1" as="geometry">
+            <mxPoint x="12" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-29" value="是否符合&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;用户要求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_l9reAorXIAECNk9moxp-30" target="_l9reAorXIAECNk9moxp-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2520" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-30" value="调整线性阵列参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_l9reAorXIAECNk9moxp-32" target="_l9reAorXIAECNk9moxp-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-57" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_l9reAorXIAECNk9moxp-56">
+          <mxGeometry x="0.232" y="3" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_l9reAorXIAECNk9moxp-32" target="_l9reAorXIAECNk9moxp-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-59" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_l9reAorXIAECNk9moxp-58">
+          <mxGeometry x="-0.144" y="1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-32" value="是否确认&lt;br&gt;生成特征" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_l9reAorXIAECNk9moxp-33" target="_l9reAorXIAECNk9moxp-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-33" value="擦除临时显示并触发建模历史添加功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-34" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_l9reAorXIAECNk9moxp-35" value="擦除临时显示并恢复原显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
