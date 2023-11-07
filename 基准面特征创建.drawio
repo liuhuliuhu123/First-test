@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T07:10:19.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="SkFPmCH4T8UEoBP2PDVz" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T07:10:26.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="aMyYB-AyCYLhh8jJG5CR" version="22.0.8" type="github">
   <diagram name="第 1 页" id="pvJT21Bhqj4TfIoRa88W">
     <mxGraphModel dx="1290" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CuKMl-2JvT2vRlZnuCL4-1" value="擦除临时显示并恢复原显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
