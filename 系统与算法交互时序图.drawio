@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T02:08:44.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="8nKbN4PxYP3x-PTXHsrr" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T02:28:53.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="BoNb4Qg0CGV2t76mV3wD" version="22.1.5" type="github">
   <diagram name="第 1 页" id="pxupF_m19sK6GDL_rKMm">
-    <mxGraphModel dx="2983" dy="970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2095" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,13 +31,11 @@
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="zHRK3XGYiJXSnVPbU2CI-9" vertex="1">
           <mxGeometry x="60" y="88" width="10" height="252" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-105" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;entryX=1.025;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;" parent="zHRK3XGYiJXSnVPbU2CI-9" target="zHRK3XGYiJXSnVPbU2CI-5" edge="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-105" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" parent="zHRK3XGYiJXSnVPbU2CI-9" target="zHRK3XGYiJXSnVPbU2CI-4" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="60" y="323" as="sourcePoint" />
             <mxPoint x="-150" y="345" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="60" y="345" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-16" value=":数据模型" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
@@ -67,7 +65,7 @@
             <mxPoint x="190" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-39" value="3:选中图元绘制命令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-39" value="3:选中图元绘制按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="208" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-58" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.09;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.96;exitY=0.097;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="zHRK3XGYiJXSnVPbU2CI-21" target="zHRK3XGYiJXSnVPbU2CI-87" edge="1">
@@ -100,15 +98,15 @@
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-75" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="zHRK3XGYiJXSnVPbU2CI-74" vertex="1">
           <mxGeometry x="20" y="30" width="80" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-77" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=-0.42;exitY=0.871;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="1" source="zHRK3XGYiJXSnVPbU2CI-59" target="zHRK3XGYiJXSnVPbU2CI-2" edge="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-77" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=-0.156;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="1" source="zHRK3XGYiJXSnVPbU2CI-59" target="zHRK3XGYiJXSnVPbU2CI-2" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="727.9999999999998" y="558.7919999999999" as="sourcePoint" />
             <mxPoint x="319.99999999999983" y="562.5999999999999" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-78" value="11:显示图元形状" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270" y="530" width="110" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-78" value="12:显示图元形状" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="270" y="550" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-86" value=":控制器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="361" y="80" width="105" height="800" as="geometry" />
@@ -176,8 +174,8 @@
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-121" value="18:草图特征存入模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="470" y="830" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-36" value="1:新建草图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="100" y="130" width="80" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-36" value="1:选中新建草图按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="75" y="130" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-93" value="2:生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="160" width="60" height="30" as="geometry" />
@@ -236,8 +234,8 @@
             <mxPoint x="1000" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-106" value="12:对象存入草图内部容器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="650" y="560" width="160" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-106" value="11:对象存入草图内部容器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="640" y="530" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ojc-O68Cv-DJpuqxMeqM-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;10:创建图元对象&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="510" width="160" height="40" as="geometry" />
