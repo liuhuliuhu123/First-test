@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T02:28:53.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="BoNb4Qg0CGV2t76mV3wD" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T02:34:07.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="VQqxWQuTmggP8FFUdSL-" version="22.1.5" type="github">
   <diagram name="第 1 页" id="pxupF_m19sK6GDL_rKMm">
-    <mxGraphModel dx="2095" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2624" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,10 +31,10 @@
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="zHRK3XGYiJXSnVPbU2CI-9" vertex="1">
           <mxGeometry x="60" y="88" width="10" height="252" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-105" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" parent="zHRK3XGYiJXSnVPbU2CI-9" target="zHRK3XGYiJXSnVPbU2CI-4" edge="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-105" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" parent="zHRK3XGYiJXSnVPbU2CI-9" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="60" y="323" as="sourcePoint" />
-            <mxPoint x="-150" y="345" as="targetPoint" />
+            <mxPoint x="-160" y="323" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -52,12 +52,6 @@
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-22" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="zHRK3XGYiJXSnVPbU2CI-20" vertex="1">
           <mxGeometry x="45" y="30" width="50" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-44" value="17:关闭草图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zHRK3XGYiJXSnVPbU2CI-20" vertex="1">
-          <mxGeometry x="100" y="710" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-45" value="13:选中约束添加命令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="zHRK3XGYiJXSnVPbU2CI-20" vertex="1">
-          <mxGeometry x="90" y="505" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-35" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=-0.15;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="zHRK3XGYiJXSnVPbU2CI-21" target="zHRK3XGYiJXSnVPbU2CI-87" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -169,13 +163,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-118" value="16:显示约束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="330" y="700" width="90" height="30" as="geometry" />
+          <mxGeometry x="271" y="700" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-121" value="18:草图特征存入模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="470" y="830" width="140" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-121" value="18:草图特征存入数据模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="460" y="830" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-36" value="1:选中新建草图按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="75" y="130" width="130" height="30" as="geometry" />
+          <mxGeometry x="90" y="140" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-93" value="2:生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="160" width="60" height="30" as="geometry" />
@@ -240,8 +234,14 @@
         <mxCell id="Ojc-O68Cv-DJpuqxMeqM-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;10:创建图元对象&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="510" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-113" value="15:约束对象存入草图内部容器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-113" value="15:约束对象存入草图约束容器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="658" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-45" value="13:选中约束添加按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="70" y="580" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-44" value="17:选中关闭草图按钮" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="810" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
