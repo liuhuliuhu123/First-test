@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T02:34:07.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="VQqxWQuTmggP8FFUdSL-" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T01:56:41.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="rxoeOc3thUOU6bVdJpqe" version="22.1.7" type="github">
   <diagram name="第 1 页" id="pxupF_m19sK6GDL_rKMm">
-    <mxGraphModel dx="2624" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1905" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
             <mxPoint x="190" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-39" value="3:选中图元绘制按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-39" value="3:点击图元绘制按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="208" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-58" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.09;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.96;exitY=0.097;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="zHRK3XGYiJXSnVPbU2CI-21" target="zHRK3XGYiJXSnVPbU2CI-87" edge="1">
@@ -168,7 +168,7 @@
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-121" value="18:草图特征存入数据模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="830" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-36" value="1:选中新建草图按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-36" value="1:点击新建草图按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="140" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-93" value="2:生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -237,10 +237,10 @@
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-113" value="15:约束对象存入草图约束容器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="658" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-45" value="13:选中约束添加按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-45" value="13:点击约束添加按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="70" y="580" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-44" value="17:选中关闭草图按钮" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-44" value="17:点击关闭草图按钮" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="810" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
