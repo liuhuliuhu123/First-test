@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T01:56:41.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="rxoeOc3thUOU6bVdJpqe" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T01:05:04.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Hhfz5QagUHgcE3ImHC3O" version="22.1.7" type="github">
   <diagram name="第 1 页" id="pxupF_m19sK6GDL_rKMm">
-    <mxGraphModel dx="1905" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2624" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-1" value=":模型空间" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-1" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;:模型空间&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="180" y="80" width="110" height="800" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="zHRK3XGYiJXSnVPbU2CI-1" vertex="1">
@@ -13,7 +13,7 @@
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="zHRK3XGYiJXSnVPbU2CI-1" vertex="1">
           <mxGeometry x="20" y="30" width="90" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-4" value=":草图" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-4" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;:草图&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="550" y="170" width="135.5" height="570" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="zHRK3XGYiJXSnVPbU2CI-4" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="zHRK3XGYiJXSnVPbU2CI-4" vertex="1">
           <mxGeometry x="40" y="30" width="60" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-9" value=":图元绘制命令" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-9" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;:图元绘制命令&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="780" y="245" width="130" height="635" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-14" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="zHRK3XGYiJXSnVPbU2CI-9" vertex="1">
@@ -38,13 +38,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-16" value=":数据模型" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-16" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;:数据模型&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="1290" y="70" width="100" height="810" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-19" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="zHRK3XGYiJXSnVPbU2CI-16" vertex="1">
-          <mxGeometry y="30" width="100" height="8" as="geometry" />
+          <mxGeometry x="20" y="30" width="70" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-20" value=":主窗口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-20" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;:主窗口&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="-10" y="80" width="140" height="800" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="zHRK3XGYiJXSnVPbU2CI-20" vertex="1">
@@ -59,8 +59,8 @@
             <mxPoint x="190" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-39" value="3:点击图元绘制按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="90" y="208" width="130" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-39" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;3:点击图元绘制按钮&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="75" y="208" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-58" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.09;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.96;exitY=0.097;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="zHRK3XGYiJXSnVPbU2CI-21" target="zHRK3XGYiJXSnVPbU2CI-87" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -74,23 +74,23 @@
             <mxPoint x="359" y="363" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-42" value="9:创建图元几何数据对象" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="850" y="450" width="150" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-42" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;9:创建图元几何数据对象&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="840" y="430" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-41" value="8:图元绘制结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270" y="430" width="110" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-41" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;8:图元绘制结束&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="260" y="430" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-65" value=":图元对象" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-65" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;:图元对象&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="1110" y="520" width="110" height="360" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-67" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="zHRK3XGYiJXSnVPbU2CI-65" vertex="1">
           <mxGeometry x="10" y="30" width="100" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-74" value="几何数据对象" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-74" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;:几何数据对象&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="1000" y="460" width="110" height="420" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-75" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="zHRK3XGYiJXSnVPbU2CI-74" vertex="1">
-          <mxGeometry x="20" y="30" width="80" height="8" as="geometry" />
+          <mxGeometry x="10" y="30" width="90" height="8" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-77" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=-0.156;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="1" source="zHRK3XGYiJXSnVPbU2CI-59" target="zHRK3XGYiJXSnVPbU2CI-2" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -99,10 +99,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-78" value="12:显示图元形状" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270" y="550" width="110" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-78" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;12:显示图元形状&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="255" y="550" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-86" value=":控制器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-86" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;:控制器&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="361" y="80" width="105" height="800" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-87" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="zHRK3XGYiJXSnVPbU2CI-86" vertex="1">
@@ -129,8 +129,8 @@
             <mxPoint x="249" y="612" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-98" value="4:生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="450" y="245" width="60" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-98" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot; style=&quot;font-size: 16px;&quot;&gt;4:生成&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="445" y="245" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-61" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=-0.3;exitY=0.191;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="1" source="zHRK3XGYiJXSnVPbU2CI-59" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -141,17 +141,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-63" value="7:显示图元临时形状" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="450" y="350" width="130" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-63" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;7:显示图元临时形状&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="435" y="350" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-107" value=":约束对象" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-107" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;:约束对象&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="1186" y="630" width="110" height="250" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-108" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="zHRK3XGYiJXSnVPbU2CI-107" vertex="1">
           <mxGeometry x="20" y="30" width="80" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-110" value="14:生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="460" y="610" width="60" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-110" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;14:生成&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="450" y="610" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-117" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -162,17 +162,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-118" value="16:显示约束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="271" y="700" width="90" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-118" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;16:显示约束&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="261" y="700" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-121" value="18:草图特征存入数据模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="460" y="830" width="160" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-121" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;18:草图特征存入数据模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="435" y="830" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-36" value="1:点击新建草图按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="90" y="140" width="130" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-36" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;1:点击新建草图按钮&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="75" y="140" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-93" value="2:生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="450" y="160" width="60" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-93" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;2:生成&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="445" y="160" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-96" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -180,8 +180,8 @@
             <mxPoint x="780" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ojc-O68Cv-DJpuqxMeqM-2" value="5:鼠标点击并移动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="260" y="260" width="120" height="30" as="geometry" />
+        <mxCell id="Ojc-O68Cv-DJpuqxMeqM-2" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;5:鼠标点击并移动&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="245" y="260" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-99" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=-0.06;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="zHRK3XGYiJXSnVPbU2CI-87" target="zHRK3XGYiJXSnVPbU2CI-59" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -189,8 +189,8 @@
             <mxPoint x="692.5" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-100" value="6:传递鼠标点信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="450" y="298" width="120" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-100" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;6:传递鼠标点信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="435" y="298" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHRK3XGYiJXSnVPbU2CI-73" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.051;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.26;exitY=0.813;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="zHRK3XGYiJXSnVPbU2CI-59" target="zHRK3XGYiJXSnVPbU2CI-65" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -228,19 +228,19 @@
             <mxPoint x="1000" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-106" value="11:对象存入草图内部容器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="640" y="530" width="160" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-106" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;11:对象存入草图内部容器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="615" y="530" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ojc-O68Cv-DJpuqxMeqM-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;10:创建图元对象&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ojc-O68Cv-DJpuqxMeqM-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;10:创建图元对象&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="510" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-113" value="15:约束对象存入草图约束容器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="430" y="658" width="180" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-113" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;15:约束对象存入草图约束容器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="400" y="658" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-45" value="13:点击约束添加按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="70" y="580" width="140" height="30" as="geometry" />
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-45" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;13:点击约束添加按钮&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="55" y="580" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHRK3XGYiJXSnVPbU2CI-44" value="17:点击关闭草图按钮" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="zHRK3XGYiJXSnVPbU2CI-44" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+Simplified+Chinese&quot; face=&quot;Noto Sans Simplified Chinese&quot;&gt;17:点击关闭草图按钮&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="810" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
