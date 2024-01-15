@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T05:57:19.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="oxiPrN_woWPzHWY8vf1i" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T05:57:38.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="e7p7JP8Ev-GxhWRTWtjI" version="22.1.18" type="github">
   <diagram name="第 1 页" id="obXDIkw4ct05Dv1w8uGv">
     <mxGraphModel dx="2095" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="120" y="180" width="530" height="270" as="geometry" />
         </mxCell>
         <mxCell id="hpdYj8IzXZtInwZiu81i-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="490" width="520" height="90" as="geometry" />
+          <mxGeometry x="120" y="490" width="530" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hpdYj8IzXZtInwZiu81i-5" value="工具菜单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="85" width="80" height="30" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="707.5" y="520" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hpdYj8IzXZtInwZiu81i-40" value="属性传递机制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="540" width="90" height="30" as="geometry" />
+          <mxGeometry x="520" y="540" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hpdYj8IzXZtInwZiu81i-42" value="OPen&lt;br&gt;CASCADE库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="712.5" y="340" width="75" height="30" as="geometry" />
@@ -176,7 +176,7 @@
           <mxGeometry x="320" y="500" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hpdYj8IzXZtInwZiu81i-74" value="拓扑元素命名与辨识" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="466.75" y="500" width="116.5" height="30" as="geometry" />
+          <mxGeometry x="493.5" y="500" width="116.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FGgtW8K9BUZy6P2zBws3-1" value="FreeCAD模型转换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="500" width="110" height="30" as="geometry" />
